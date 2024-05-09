@@ -34,8 +34,7 @@ for (let num = 1; num < 101; num++) {
 
 // find the first prime number all the way to 100;
 // process of elimination. divide by itself and one and positive.
-let n;
-let prime;
+let n = 50;
 for (let num2 = n; num2 > n;num2++) {
-    prime = true;
+    
 }
