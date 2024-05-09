@@ -37,7 +37,13 @@ for (let num = 1; num < 101; num++) {
 let n = 50;
 for (let num2 = n; num2 < 100;num2++) {
     let prime = true;
-    for (let primeNum = 2; primeNum < num; primeNum++) {
-
+    for (let notPrimeNum = 2; notPrimeNum < num2; notPrimeNum++) {
+    if (notrimeNum is < 2) {
+        primeNum = false;
+        } else {
+            for (let isPrimeNum = 2; isPrimeNum  ) {
+                if 
+                }
+            }
     }
 }
