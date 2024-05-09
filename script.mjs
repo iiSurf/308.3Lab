@@ -32,11 +32,10 @@ for (let num = 1; num < 101; num++) {
 // Continuing with the example above, if n is equal to 4, your loop should log 5. Similarly, if n is 5, it should log 7, and if n is 9, it should log 11. Test your loop with higher numbers and reference an online prime number table to determine the accuracy of your code.
 // Be careful! If you set n to a number too large, your loop could take a long time to process.
 
-
-for (let num2 = 0; num2 < 100; num2++) {
-    if () {
-        console.log();
-    } else if {
-        console.log();
-    }
+// find the first prime number all the way to 100;
+// process of elimination. divide by itself and one and positive.
+let n;
+let prime;
+for (let num2 = n; num2 > n;num2++) {
+    prime = true;
 }
