@@ -36,10 +36,7 @@ for (let num = 1; num < 101; num++) {
 // process of elimination. divide by itself and one and positive.
 // let n = 2; // n is an arbitrary number
 // let counterPart2 = 0;
-// We start with the given arbitrary number n.
-// The outer for loop iterates from n + 1 onwards until we find a prime number.
-// The inner for loop checks if the current number is divisible by any number from 2 up to its square root. If it is, we set isDivisible to true.
-// If the inner loop completes without finding any divisors, we log the current number as the next prime number and exit the outer loop.
+
 
 let n = 11;
 
